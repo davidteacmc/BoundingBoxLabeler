@@ -1,4 +1,4 @@
-bounding-box-labeler
+Object Bounding Box Labeler
 ======================
 Manual labeler of object bounding boxes in images
 
@@ -35,5 +35,5 @@ Manual labeler of object bounding boxes in images
 * Right-click: undo
 * ESC: quit
 
-6. Results are saved in a text file named "bounding_boxes.txt"
+6. Results are saved in the text file "bounding_boxes.txt"
 
