@@ -36,13 +36,13 @@ This is a self-contained executable program for manual object bounding box label
 4. Type the image to start. It needs to be exactly the same as one of the paths in list.txt, for example, D:\images\00000002.jpg.
 
 5. Use the mouse to label bounding boxes in the image window.  
-1) Click to locate the top-left corner.  
-2) Click again to locate the bottom-right corner. The coordinates (x1, y1, x2, y2) will be printed.  
-3) Repeat 1) and 2) if there are multiple objects.  
-
-* Spacebar: proceed to the next image
-* Right-click: undo
-* ESC: quit
+  1) Click to locate the top-left corner.  
+  2) Click again to locate the bottom-right corner. The coordinates (x1, y1, x2, y2) will be printed.  
+  3) Repeat 1) and 2) if there are multiple objects.  
+  4) Other functions
+ * Spacebar: proceed to the next image
+ * Right-click: undo
+ * ESC: quit
 
 6. Results are saved in the text file "bounding_boxes.txt"
 
