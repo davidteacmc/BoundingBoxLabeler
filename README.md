@@ -7,6 +7,15 @@ Manual labeler of object bounding boxes in images
 05/01/2015 (v0.1) : generate text output in addition to XML  
 07/18/2014 (v0.0) : first version
 
+### Summary
+
+This is a self-contained executable program for manual object bounding box labeler. The program is written in C++ using OpenCV library. For maintenance or further development of this program, please follow the steps below.
+
+1. Make sure the following required programs are installed and the environment is set up properly.
+  * Microsoft Visual Studio 2010 64-bit
+  * OpenCV 2.4.8 64-bit for Windows
+2. Open the solution file (src\UWEE_chute.sln) in Visual Studio 2010. 
+
 ### Steps
 1. List all image paths in a file named "list.txt". One file for each line. An example of list.txt:
 >`D:\images\00000002.jpg`  
